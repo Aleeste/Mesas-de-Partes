@@ -19,7 +19,7 @@
   </header>
   <main class="container">
         <div style="height:70vh" class="my-3 shadow">
-            <img src="https://www.rcc.gob.pe/2020/wp-content/uploads/2022/10/LosPINOSnuevo.jpg" alt="..." style="object-fit:cover" class="w-100 h-100"  />
+            <img src="Imagenes/LOSPINOS.jpg" alt="los pinos" style="object-fit:cover" class="w-100 h-100"  />
         </div>
        
             <div>
